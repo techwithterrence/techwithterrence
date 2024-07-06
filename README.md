@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/techwithterrence/post-install-config)
 - <b>Microsoft Azure</b>
   - [Create A Virtual Machine](https://github.com/techwithterrence/Create-Virtual-Machine/blob/main/README.md)
-  - 
+  - [Configuring-On-premises-Active-Directory-within-Azure-VMs](https://github.com/techwithterrence/techwithterrence-Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/techwithterrence/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
